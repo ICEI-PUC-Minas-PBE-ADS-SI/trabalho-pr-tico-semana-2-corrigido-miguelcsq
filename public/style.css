@@ -183,3 +183,9 @@ p
     letter-spacing: 1px;
     margin-bottom: 10px;   
 }
+.about .box
+{
+    display: flex;
+    flex-direction: row ;
+    margin: 20px 0;
+}
